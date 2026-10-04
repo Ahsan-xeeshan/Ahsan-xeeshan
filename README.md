@@ -14,29 +14,65 @@
 
 ---
 
-# 🚀 About Me
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-<div align="center">
+<h1>🚀 About Me</h1>
 
-<img src="developer-about.jpeg" alt="Nazmul Ahsan - Full Stack Developer" width="850"/>
+<p>
+I'm a passionate <strong>Full Stack Developer from Bangladesh 🇧🇩</strong>
+who enjoys building modern, scalable and user-friendly web applications.
+</p>
 
-</div>
+<p>
+I work across both <strong>frontend and backend development</strong>, with a strong focus on creating seamless user experiences, clean APIs and reliable server-side solutions.
+</p>
 
-<br>
+<h3>💻 What I Work With</h3>
 
-I'm a passionate **Full Stack Developer from Bangladesh 🇧🇩** who enjoys building modern, scalable and user-friendly web applications.
+<table>
+  <tr>
+    <td><strong>🎨 Frontend</strong></td>
+    <td>React, Next.js, TypeScript, JavaScript, Tailwind CSS, Redux</td>
+  </tr>
+  <tr>
+    <td><strong>⚙️ Backend</strong></td>
+    <td>Node.js, Express.js, Python, FastAPI, GraphQL</td>
+  </tr>
+  <tr>
+    <td><strong>📱 Mobile</strong></td>
+    <td>React Native</td>
+  </tr>
+  <tr>
+    <td><strong>🗄️ Databases</strong></td>
+    <td>MongoDB, PostgreSQL, MySQL</td>
+  </tr>
+  <tr>
+    <td><strong>🛠️ Tools</strong></td>
+    <td>Git, Docker, Postman, Figma, Firebase</td>
+  </tr>
+</table>
 
-I work across both **frontend and backend development**, with a strong focus on creating seamless user experiences, clean APIs and reliable server-side solutions.
 
-### 💻 What I Work With
+</td>
 
-| Area | Technologies |
-|---|---|
-| 🎨 **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, Redux |
-| ⚙️ **Backend** | Node.js, Express.js, Python, FastAPI, GraphQL |
-| 📱 **Mobile** | React Native |
-| 🗄️ **Databases** | MongoDB, PostgreSQL, MySQL |
-| 🛠️ **Tools** | Git, Docker, Postman, Figma, Firebase |
+<td width="40%" align="center" valign="middle">
+  <img
+    src="developer-about.jpeg"
+    alt="Nazmul Ahsan - Full Stack Developer"
+    width="400"
+  />
+</td>
+
+  </tr>
+</table>
+
+
+
+
+
+
 
 ---
 
@@ -44,7 +80,7 @@ I work across both **frontend and backend development**, with a strong focus on 
 
 ### 🎨 Frontend
 
-<p align="left">
+<p align="left gap-2">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
 
