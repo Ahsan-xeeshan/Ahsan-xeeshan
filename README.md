@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="developer-about.png" alt="Nazmul Ahsan - Full Stack Developer" width="850"/>
+<img src="developer-about.jpeg" alt="Nazmul Ahsan - Full Stack Developer" width="850"/>
 
 </div>
 
